@@ -1,0 +1,4 @@
+api/migrations/__pycache__/
+blog/__pycache__/urls.cpython-38.pyc
+db.sqlite3
+
